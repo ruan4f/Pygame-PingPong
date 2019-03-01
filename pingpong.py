@@ -1,7 +1,7 @@
 # --- Import libraries used for this program
  
-import math
 import pygame
+import math
 import random
  
 # Define some colors
